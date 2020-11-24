@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/BryanJadot/financy#readme",
   "devDependencies": {
+    "@types/chromedriver": "^81.0.0",
     "@types/node": "^14.14.9",
+    "@types/selenium-webdriver": "^4.0.10",
     "@typescript-eslint/eslint-plugin": "^4.8.2",
     "@typescript-eslint/parser": "^4.8.2",
     "eslint": "^7.14.0",
@@ -34,6 +36,7 @@
     "typescript": "^4.1.2"
   },
   "dependencies": {
+    "chromedriver": "86.0.0",
     "selenium-webdriver": "^4.0.0-alpha.7"
   }
 }
